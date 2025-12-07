@@ -5,14 +5,23 @@
   "source": "@site/docs/module-1-ros2/index.md",
   "sourceDirName": "module-1-ros2",
   "slug": "/module-1-ros2/",
-  "permalink": "/physical-ai-book/docs/module-1-ros2/",
+  "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-1-ros2/index.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-1-ros2/index.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physical AI & Humanoid Robotics: Bridging the Digital Brain and the Physical Body",
+    "permalink": "/physical_ai_humanoid_book/docs/intro"
+  },
+  "next": {
+    "title": "ROS 2 Nodes",
+    "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/nodes"
   }
 }

@@ -5,14 +5,23 @@
   "source": "@site/docs/module-2-digital-twin/gazebo.md",
   "sourceDirName": "module-2-digital-twin",
   "slug": "/module-2-digital-twin/gazebo",
-  "permalink": "/physical-ai-book/docs/module-2-digital-twin/gazebo",
+  "permalink": "/physical_ai_humanoid_book/docs/module-2-digital-twin/gazebo",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-2-digital-twin/gazebo.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-2-digital-twin/gazebo.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "permalink": "/physical_ai_humanoid_book/docs/module-2-digital-twin/"
+  },
+  "next": {
+    "title": "Unity for High-Fidelity Rendering",
+    "permalink": "/physical_ai_humanoid_book/docs/module-2-digital-twin/unity"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "types": [
+      "@docusaurus/module-type-aliases",
+      "@docusaurus/types"
+    ],
+    "allowJs": true,
+    "jsx": "react"
+  }
+}

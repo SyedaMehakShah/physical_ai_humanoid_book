@@ -5,14 +5,23 @@
   "source": "@site/docs/labs/lab-template.md",
   "sourceDirName": "labs",
   "slug": "/labs/lab-template",
-  "permalink": "/physical-ai-book/docs/labs/lab-template",
+  "permalink": "/physical_ai_humanoid_book/docs/labs/lab-template",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/labs/lab-template.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/labs/lab-template.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 7,
   "frontMatter": {
     "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ethics in Human-Robot Interaction",
+    "permalink": "/physical_ai_humanoid_book/docs/module-5-hri-safety/ethics"
+  },
+  "next": {
+    "title": "Tools and Technologies for Physical AI & Humanoid Robotics",
+    "permalink": "/physical_ai_humanoid_book/docs/resources/tools"
   }
 }

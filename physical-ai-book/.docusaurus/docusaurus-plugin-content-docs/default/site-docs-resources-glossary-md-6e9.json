@@ -5,14 +5,23 @@
   "source": "@site/docs/resources/glossary.md",
   "sourceDirName": "resources",
   "slug": "/resources/glossary",
-  "permalink": "/physical-ai-book/docs/resources/glossary",
+  "permalink": "/physical_ai_humanoid_book/docs/resources/glossary",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/resources/glossary.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/resources/glossary.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tools and Technologies for Physical AI & Humanoid Robotics",
+    "permalink": "/physical_ai_humanoid_book/docs/resources/tools"
+  },
+  "next": {
+    "title": "Tools Overview",
+    "permalink": "/physical_ai_humanoid_book/docs/resources/tools-overview"
   }
 }

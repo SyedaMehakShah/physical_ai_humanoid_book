@@ -5,14 +5,23 @@
   "source": "@site/docs/module-5-hri-safety/safety-protocols.md",
   "sourceDirName": "module-5-hri-safety",
   "slug": "/module-5-hri-safety/safety-protocols",
-  "permalink": "/physical-ai-book/docs/module-5-hri-safety/safety-protocols",
+  "permalink": "/physical_ai_humanoid_book/docs/module-5-hri-safety/safety-protocols",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-5-hri-safety/safety-protocols.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-5-hri-safety/safety-protocols.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
     "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Human-Robot Interaction Design",
+    "permalink": "/physical_ai_humanoid_book/docs/module-5-hri-safety/interaction-design"
+  },
+  "next": {
+    "title": "Ethics in Human-Robot Interaction",
+    "permalink": "/physical_ai_humanoid_book/docs/module-5-hri-safety/ethics"
   }
 }

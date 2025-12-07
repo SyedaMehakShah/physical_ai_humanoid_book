@@ -5,14 +5,23 @@
   "source": "@site/docs/module-1-ros2/urdf.md",
   "sourceDirName": "module-1-ros2",
   "slug": "/module-1-ros2/urdf",
-  "permalink": "/physical-ai-book/docs/module-1-ros2/urdf",
+  "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/urdf",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-1-ros2/urdf.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-1-ros2/urdf.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
     "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python ROS Client Library (rclpy)",
+    "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/rclpy"
+  },
+  "next": {
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "permalink": "/physical_ai_humanoid_book/docs/module-2-digital-twin/"
   }
 }

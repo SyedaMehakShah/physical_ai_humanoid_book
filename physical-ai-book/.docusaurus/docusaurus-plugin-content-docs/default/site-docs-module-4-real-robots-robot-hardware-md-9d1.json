@@ -5,14 +5,23 @@
   "source": "@site/docs/module-4-real-robots/robot-hardware.md",
   "sourceDirName": "module-4-real-robots",
   "slug": "/module-4-real-robots/robot-hardware",
-  "permalink": "/physical-ai-book/docs/module-4-real-robots/robot-hardware",
+  "permalink": "/physical_ai_humanoid_book/docs/module-4-real-robots/robot-hardware",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-4-real-robots/robot-hardware.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-4-real-robots/robot-hardware.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4: From Simulation to Real Humanoids",
+    "permalink": "/physical_ai_humanoid_book/docs/module-4-real-robots/"
+  },
+  "next": {
+    "title": "Deployment to Real Robots",
+    "permalink": "/physical_ai_humanoid_book/docs/module-4-real-robots/deployment"
   }
 }

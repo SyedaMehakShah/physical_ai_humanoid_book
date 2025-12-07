@@ -5,14 +5,23 @@
   "source": "@site/docs/resources/lab-template.md",
   "sourceDirName": "resources",
   "slug": "/resources/lab-template",
-  "permalink": "/physical-ai-book/docs/resources/lab-template",
+  "permalink": "/physical_ai_humanoid_book/docs/resources/lab-template",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/resources/lab-template.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/resources/lab-template.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
   "frontMatter": {
     "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "References and Further Reading: Physical AI & Humanoid Robotics",
+    "permalink": "/physical_ai_humanoid_book/docs/resources/references"
+  },
+  "next": {
+    "title": "Spec-Driven Development Workflow",
+    "permalink": "/physical_ai_humanoid_book/docs/resources/spec-driven-workflow"
   }
 }

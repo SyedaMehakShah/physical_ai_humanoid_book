@@ -1,0 +1,293 @@
+/* Custom styles for the futuristic homepage */
+
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background: transparent !important;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.robotContainer {
+  position: relative;
+  width: 100%;
+  max-width: 300px;
+  height: 350px;
+  margin: 0 auto 2rem;
+}
+
+.digitalBrain {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 180px;
+  height: 120px;
+  background:
+    linear-gradient(90deg, transparent 49%, rgba(5, 217, 232, 0.1) 50%, transparent 51%),
+    linear-gradient(rgba(5, 217, 232, 0.1) 1px, transparent 1px),
+    radial-gradient(circle at 30% 30%, rgba(166, 77, 230, 0.2) 0%, transparent 20%),
+    radial-gradient(circle at 70% 30%, rgba(255, 42, 109, 0.2) 0%, transparent 20%),
+    radial-gradient(circle at 50% 60%, rgba(5, 217, 232, 0.2) 0%, transparent 25%);
+  background-size: 20px 20px, 20px 20px, 100% 100%, 100% 100%, 100% 100%;
+  border-radius: 50%;
+  border: 1px solid var(--cyber-blue);
+  box-shadow: 0 0 20px rgba(5, 217, 232, 0.5);
+  animation: pulse 3s ease-in-out infinite;
+  z-index: 2;
+}
+
+/* Typography adjustments for better visibility */
+.heroBanner .hero__title {
+  color: #e0e0e0; /* Light grey for better visibility */
+  text-shadow: 0 0 10px rgba(224, 224, 224, 0.7);
+}
+
+.heroBanner .hero__subtitle {
+  color: #b0b0b0; /* Medium grey for better visibility */
+  text-shadow: 0 0 10px rgba(176, 176, 176, 0.5);
+}
+
+.robotSilhouette {
+  width: 250px;
+  height: 300px;
+  position: relative;
+  animation: float 6s ease-in-out infinite;
+  margin-top: 30px;
+}
+
+.robotSilhouette::before {
+  content: '';
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 60px;
+  background: radial-gradient(circle, var(--cyber-blue) 0%, var(--cyber-purple) 70%, transparent 100%);
+  border-radius: 50%;
+  box-shadow: 0 0 20px var(--cyber-blue);
+  opacity: 0.9;
+  z-index: 1;
+}
+
+.robotSilhouette::after {
+  content: '';
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 180px;
+  height: 200px;
+  background: linear-gradient(135deg, transparent 40%, var(--cyber-panel) 40%, var(--cyber-panel) 60%, transparent 60%);
+  border: 2px solid var(--cyber-blue);
+  border-radius: 40% 40% 20% 20%;
+  box-shadow: 0 0 15px rgba(5, 217, 232, 0.5);
+}
+
+.robotLimb {
+  position: absolute;
+  background: var(--cyber-panel);
+  border: 1px solid var(--cyber-blue);
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(5, 217, 232, 0.3);
+}
+
+.robotArmLeft {
+  top: 28%;
+  left: 10%;
+  width: 30px;
+  height: 120px;
+  transform: rotate(20deg);
+}
+
+.robotArmRight {
+  top: 28%;
+  right: 10%;
+  width: 30px;
+  height: 120px;
+  transform: rotate(-20deg);
+}
+
+.robotLegLeft {
+  bottom: 10%;
+  left: 30%;
+  width: 30px;
+  height: 100px;
+}
+
+.robotLegRight {
+  bottom: 10%;
+  right: 30%;
+  width: 30px;
+  height: 100px;
+}
+
+.buttonGroup {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Floating particles */
+.particle {
+  position: absolute;
+  border-radius: 50%;
+  background: var(--cyber-blue);
+  opacity: 0.6;
+  z-index: -1;
+  animation: float 8s infinite ease-in-out;
+}
+
+.particle {
+  top: 15%;
+  left: 10%;
+  width: 8px;
+  height: 8px;
+  box-shadow: 0 0 10px var(--cyber-blue);
+}
+
+.particle2 {
+  top: 60%;
+  right: 15%;
+  width: 6px;
+  height: 6px;
+  animation: float 6s infinite ease-in-out reverse;
+  box-shadow: 0 0 10px var(--cyber-purple);
+}
+
+.particle3 {
+  bottom: 20%;
+  left: 20%;
+  width: 5px;
+  height: 5px;
+  animation: float 7s infinite ease-in-out;
+  box-shadow: 0 0 10px var(--cyber-pink);
+}
+
+/* Features section */
+.features {
+  padding: 4rem 0;
+  background: transparent;
+}
+
+.featureCard {
+  padding: 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  transition: all 0.3s ease;
+}
+
+.featureCard:hover {
+  transform: translateY(-10px);
+}
+
+/* Hologram section */
+.hologramSection {
+  padding: 4rem 0;
+  margin: 4rem 0;
+  position: relative;
+  border-radius: 15px;
+  background: var(--cyber-panel);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(5, 217, 232, 0.2);
+  box-shadow: var(--cyber-glow);
+  animation: glow 4s ease-in-out infinite;
+}
+
+.hologramSection h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  background: linear-gradient(to right, var(--cyber-blue), var(--cyber-purple), var(--cyber-pink));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hologramSection p {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  color: #e0f7fa;
+  font-size: 1.2rem;
+}
+
+/* Animations (these should match the ones in custom.css for consistency) */
+@keyframes float {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-20px) rotate(180deg); }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.8; }
+  50% { opacity: 1; }
+}
+
+@keyframes glow {
+  0%, 100% { box-shadow: var(--cyber-glow); }
+  50% { box-shadow: 0 0 25px rgba(0, 240, 255, 0.9); }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .robotContainer {
+    max-width: 250px;
+    height: 300px;
+  }
+
+  .digitalBrain {
+    width: 150px;
+    height: 100px;
+  }
+
+  .robotSilhouette {
+    width: 200px;
+    height: 250px;
+  }
+
+  .buttonGroup {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .heroBanner {
+    padding: 2rem 1rem;
+  }
+
+  .robotContainer {
+    max-width: 200px;
+    height: 260px;
+  }
+
+  .robotSilhouette {
+    width: 180px;
+    height: 230px;
+  }
+
+  .featureCard {
+    padding: 1rem;
+  }
+}

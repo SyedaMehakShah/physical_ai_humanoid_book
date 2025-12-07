@@ -5,14 +5,23 @@
   "source": "@site/docs/module-2-digital-twin/physics.md",
   "sourceDirName": "module-2-digital-twin",
   "slug": "/module-2-digital-twin/physics",
-  "permalink": "/physical-ai-book/docs/module-2-digital-twin/physics",
+  "permalink": "/physical_ai_humanoid_book/docs/module-2-digital-twin/physics",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-2-digital-twin/physics.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-2-digital-twin/physics.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
     "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unity for High-Fidelity Rendering",
+    "permalink": "/physical_ai_humanoid_book/docs/module-2-digital-twin/unity"
+  },
+  "next": {
+    "title": "Sensor Simulation for Humanoid Robots",
+    "permalink": "/physical_ai_humanoid_book/docs/module-2-digital-twin/sensors"
   }
 }

@@ -5,14 +5,23 @@
   "source": "@site/docs/module-4-real-robots/deployment.md",
   "sourceDirName": "module-4-real-robots",
   "slug": "/module-4-real-robots/deployment",
-  "permalink": "/physical-ai-book/docs/module-4-real-robots/deployment",
+  "permalink": "/physical_ai_humanoid_book/docs/module-4-real-robots/deployment",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-4-real-robots/deployment.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-4-real-robots/deployment.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
     "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Real Robot Hardware Interfaces",
+    "permalink": "/physical_ai_humanoid_book/docs/module-4-real-robots/robot-hardware"
+  },
+  "next": {
+    "title": "Safety Protocols for Real Humanoid Robots",
+    "permalink": "/physical_ai_humanoid_book/docs/module-4-real-robots/safety"
   }
 }

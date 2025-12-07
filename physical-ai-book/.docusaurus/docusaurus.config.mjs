@@ -7,10 +7,10 @@ export default {
   "title": "Physical AI & Humanoid Robotics",
   "tagline": "Bridging the Digital Brain and the Physical Body",
   "favicon": "img/favicon.ico",
-  "url": "https://your-username.github.io",
-  "baseUrl": "/physical-ai-book/",
-  "organizationName": "your-username",
-  "projectName": "physical-ai-book",
+  "url": "https://SyedaMehakShah.github.io",
+  "baseUrl": "/physical_ai_humanoid_book/",
+  "organizationName": "SyedaMehakShah",
+  "projectName": "physical_ai_humanoid_book",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
@@ -26,7 +26,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\Admin\\book\\physical-ai-book\\sidebars.js",
-          "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/"
+          "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/"
         },
         "blog": false,
         "theme": {
@@ -51,7 +51,7 @@ export default {
           "label": "Docs"
         },
         {
-          "href": "https://github.com/your-username/physical-ai-book",
+          "href": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book",
           "label": "GitHub",
           "position": "right"
         }
@@ -88,7 +88,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/your-username/physical-ai-book"
+              "href": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book"
             }
           ]
         }

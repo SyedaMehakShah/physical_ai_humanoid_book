@@ -5,14 +5,19 @@
   "source": "@site/docs/resources/troubleshooting.md",
   "sourceDirName": "resources",
   "slug": "/resources/troubleshooting",
-  "permalink": "/physical-ai-book/docs/resources/troubleshooting",
+  "permalink": "/physical_ai_humanoid_book/docs/resources/troubleshooting",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/resources/troubleshooting.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/resources/troubleshooting.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
     "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spec-Driven Development Workflow",
+    "permalink": "/physical_ai_humanoid_book/docs/resources/spec-driven-workflow"
   }
 }

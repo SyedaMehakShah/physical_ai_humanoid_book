@@ -5,14 +5,23 @@
   "source": "@site/docs/module-1-ros2/services.md",
   "sourceDirName": "module-1-ros2",
   "slug": "/module-1-ros2/services",
-  "permalink": "/physical-ai-book/docs/module-1-ros2/services",
+  "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/services",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-1-ros2/services.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-1-ros2/services.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
     "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Topics",
+    "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/topics"
+  },
+  "next": {
+    "title": "Python ROS Client Library (rclpy)",
+    "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/rclpy"
   }
 }

@@ -5,14 +5,23 @@
   "source": "@site/docs/module-5-hri-safety/index.md",
   "sourceDirName": "module-5-hri-safety",
   "slug": "/module-5-hri-safety/",
-  "permalink": "/physical-ai-book/docs/module-5-hri-safety/",
+  "permalink": "/physical_ai_humanoid_book/docs/module-5-hri-safety/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-5-hri-safety/index.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-5-hri-safety/index.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Safety Protocols for Real Humanoid Robots",
+    "permalink": "/physical_ai_humanoid_book/docs/module-4-real-robots/safety"
+  },
+  "next": {
+    "title": "Human-Robot Interaction Design",
+    "permalink": "/physical_ai_humanoid_book/docs/module-5-hri-safety/interaction-design"
   }
 }

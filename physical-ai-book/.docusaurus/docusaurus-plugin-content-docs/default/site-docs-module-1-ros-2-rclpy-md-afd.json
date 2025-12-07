@@ -5,14 +5,23 @@
   "source": "@site/docs/module-1-ros2/rclpy.md",
   "sourceDirName": "module-1-ros2",
   "slug": "/module-1-ros2/rclpy",
-  "permalink": "/physical-ai-book/docs/module-1-ros2/rclpy",
+  "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/rclpy",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-1-ros2/rclpy.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-1-ros2/rclpy.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
   "frontMatter": {
     "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Services",
+    "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/services"
+  },
+  "next": {
+    "title": "Unified Robot Description Format (URDF)",
+    "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/urdf"
   }
 }

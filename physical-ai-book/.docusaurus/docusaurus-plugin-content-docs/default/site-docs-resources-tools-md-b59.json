@@ -5,14 +5,23 @@
   "source": "@site/docs/resources/tools.md",
   "sourceDirName": "resources",
   "slug": "/resources/tools",
-  "permalink": "/physical-ai-book/docs/resources/tools",
+  "permalink": "/physical_ai_humanoid_book/docs/resources/tools",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/resources/tools.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/resources/tools.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lab Template",
+    "permalink": "/physical_ai_humanoid_book/docs/labs/lab-template"
+  },
+  "next": {
+    "title": "Glossary of Terms: Physical AI & Humanoid Robotics",
+    "permalink": "/physical_ai_humanoid_book/docs/resources/glossary"
   }
 }

@@ -5,14 +5,23 @@
   "source": "@site/docs/resources/references.md",
   "sourceDirName": "resources",
   "slug": "/resources/references",
-  "permalink": "/physical-ai-book/docs/resources/references",
+  "permalink": "/physical_ai_humanoid_book/docs/resources/references",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/resources/references.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/resources/references.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
     "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frequently Asked Questions: Physical AI & Humanoid Robotics",
+    "permalink": "/physical_ai_humanoid_book/docs/resources/faq"
+  },
+  "next": {
+    "title": "Laboratory Template: Physical AI & Humanoid Robotics",
+    "permalink": "/physical_ai_humanoid_book/docs/resources/lab-template"
   }
 }

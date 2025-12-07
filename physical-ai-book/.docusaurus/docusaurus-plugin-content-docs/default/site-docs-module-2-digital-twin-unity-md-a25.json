@@ -5,14 +5,23 @@
   "source": "@site/docs/module-2-digital-twin/unity.md",
   "sourceDirName": "module-2-digital-twin",
   "slug": "/module-2-digital-twin/unity",
-  "permalink": "/physical-ai-book/docs/module-2-digital-twin/unity",
+  "permalink": "/physical_ai_humanoid_book/docs/module-2-digital-twin/unity",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-2-digital-twin/unity.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-2-digital-twin/unity.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
     "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gazebo Physics Simulation",
+    "permalink": "/physical_ai_humanoid_book/docs/module-2-digital-twin/gazebo"
+  },
+  "next": {
+    "title": "Physics Simulation for Humanoid Robots",
+    "permalink": "/physical_ai_humanoid_book/docs/module-2-digital-twin/physics"
   }
 }

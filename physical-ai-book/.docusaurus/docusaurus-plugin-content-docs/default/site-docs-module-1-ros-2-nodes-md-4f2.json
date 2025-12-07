@@ -5,14 +5,23 @@
   "source": "@site/docs/module-1-ros2/nodes.md",
   "sourceDirName": "module-1-ros2",
   "slug": "/module-1-ros2/nodes",
-  "permalink": "/physical-ai-book/docs/module-1-ros2/nodes",
+  "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/nodes",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-1-ros2/nodes.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-1-ros2/nodes.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/"
+  },
+  "next": {
+    "title": "ROS 2 Topics",
+    "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/topics"
   }
 }

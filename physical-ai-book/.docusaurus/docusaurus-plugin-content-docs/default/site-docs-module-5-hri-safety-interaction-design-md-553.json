@@ -5,14 +5,23 @@
   "source": "@site/docs/module-5-hri-safety/interaction-design.md",
   "sourceDirName": "module-5-hri-safety",
   "slug": "/module-5-hri-safety/interaction-design",
-  "permalink": "/physical-ai-book/docs/module-5-hri-safety/interaction-design",
+  "permalink": "/physical_ai_humanoid_book/docs/module-5-hri-safety/interaction-design",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-5-hri-safety/interaction-design.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-5-hri-safety/interaction-design.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 5: Human-Robot Interaction & Safety",
+    "permalink": "/physical_ai_humanoid_book/docs/module-5-hri-safety/"
+  },
+  "next": {
+    "title": "Safety Protocols for Human-Robot Interaction",
+    "permalink": "/physical_ai_humanoid_book/docs/module-5-hri-safety/safety-protocols"
   }
 }

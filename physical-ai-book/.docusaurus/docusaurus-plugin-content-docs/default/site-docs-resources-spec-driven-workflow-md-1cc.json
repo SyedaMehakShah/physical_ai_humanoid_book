@@ -5,14 +5,23 @@
   "source": "@site/docs/resources/spec-driven-workflow.md",
   "sourceDirName": "resources",
   "slug": "/resources/spec-driven-workflow",
-  "permalink": "/physical-ai-book/docs/resources/spec-driven-workflow",
+  "permalink": "/physical_ai_humanoid_book/docs/resources/spec-driven-workflow",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/resources/spec-driven-workflow.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/resources/spec-driven-workflow.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
     "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Laboratory Template: Physical AI & Humanoid Robotics",
+    "permalink": "/physical_ai_humanoid_book/docs/resources/lab-template"
+  },
+  "next": {
+    "title": "Troubleshooting Guide: Physical AI & Humanoid Robotics",
+    "permalink": "/physical_ai_humanoid_book/docs/resources/troubleshooting"
   }
 }

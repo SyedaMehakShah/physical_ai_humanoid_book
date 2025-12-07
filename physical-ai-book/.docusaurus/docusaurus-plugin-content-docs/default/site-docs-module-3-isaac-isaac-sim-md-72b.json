@@ -5,14 +5,23 @@
   "source": "@site/docs/module-3-isaac/isaac-sim.md",
   "sourceDirName": "module-3-isaac",
   "slug": "/module-3-isaac/isaac-sim",
-  "permalink": "/physical-ai-book/docs/module-3-isaac/isaac-sim",
+  "permalink": "/physical_ai_humanoid_book/docs/module-3-isaac/isaac-sim",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-3-isaac/isaac-sim.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-3-isaac/isaac-sim.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: NVIDIA Isaac & Advanced Simulation",
+    "permalink": "/physical_ai_humanoid_book/docs/module-3-isaac/"
+  },
+  "next": {
+    "title": "AI Integration with Isaac",
+    "permalink": "/physical_ai_humanoid_book/docs/module-3-isaac/ai-integration"
   }
 }

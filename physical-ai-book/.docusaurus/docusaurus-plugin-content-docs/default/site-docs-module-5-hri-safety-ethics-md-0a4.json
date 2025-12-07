@@ -5,14 +5,23 @@
   "source": "@site/docs/module-5-hri-safety/ethics.md",
   "sourceDirName": "module-5-hri-safety",
   "slug": "/module-5-hri-safety/ethics",
-  "permalink": "/physical-ai-book/docs/module-5-hri-safety/ethics",
+  "permalink": "/physical_ai_humanoid_book/docs/module-5-hri-safety/ethics",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-5-hri-safety/ethics.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-5-hri-safety/ethics.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
     "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Safety Protocols for Human-Robot Interaction",
+    "permalink": "/physical_ai_humanoid_book/docs/module-5-hri-safety/safety-protocols"
+  },
+  "next": {
+    "title": "Lab Template",
+    "permalink": "/physical_ai_humanoid_book/docs/labs/lab-template"
   }
 }

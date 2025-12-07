@@ -5,14 +5,23 @@
   "source": "@site/docs/resources/tools-overview.md",
   "sourceDirName": "resources",
   "slug": "/resources/tools-overview",
-  "permalink": "/physical-ai-book/docs/resources/tools-overview",
+  "permalink": "/physical_ai_humanoid_book/docs/resources/tools-overview",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/resources/tools-overview.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/resources/tools-overview.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Glossary of Terms: Physical AI & Humanoid Robotics",
+    "permalink": "/physical_ai_humanoid_book/docs/resources/glossary"
+  },
+  "next": {
+    "title": "Frequently Asked Questions: Physical AI & Humanoid Robotics",
+    "permalink": "/physical_ai_humanoid_book/docs/resources/faq"
   }
 }

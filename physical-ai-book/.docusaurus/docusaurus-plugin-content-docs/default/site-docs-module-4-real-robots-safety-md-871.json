@@ -5,14 +5,23 @@
   "source": "@site/docs/module-4-real-robots/safety.md",
   "sourceDirName": "module-4-real-robots",
   "slug": "/module-4-real-robots/safety",
-  "permalink": "/physical-ai-book/docs/module-4-real-robots/safety",
+  "permalink": "/physical_ai_humanoid_book/docs/module-4-real-robots/safety",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-4-real-robots/safety.md",
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-4-real-robots/safety.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
     "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deployment to Real Robots",
+    "permalink": "/physical_ai_humanoid_book/docs/module-4-real-robots/deployment"
+  },
+  "next": {
+    "title": "Module 5: Human-Robot Interaction & Safety",
+    "permalink": "/physical_ai_humanoid_book/docs/module-5-hri-safety/"
   }
 }
