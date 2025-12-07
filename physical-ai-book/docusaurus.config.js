@@ -9,14 +9,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-username.github.io',
+  url: 'https://SyedaMehakShah.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub Pages, this is usually '/<project-name>/'
-  baseUrl: '/physical-ai-book/',
+  baseUrl: '/physical_ai_humanoid_book/',
 
   // GitHub pages deployment config.
-  organizationName: 'your-username', // Usually your GitHub org/user name.
-  projectName: 'physical-ai-book', // Usually your repo name.
+  organizationName: 'SyedaMehakShah', // Usually your GitHub org/user name.
+  projectName: 'physical_ai_humanoid_book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -33,7 +33,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/your-username/physical-ai-book/edit/main/',
+          editUrl: 'https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/',
         },
         blog: false, // Disable blog for this educational book
         theme: {
@@ -61,7 +61,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/your-username/physical-ai-book',
+            href: 'https://github.com/SyedaMehakShah/physical_ai_humanoid_book',
             label: 'GitHub',
             position: 'right',
           },
@@ -97,7 +97,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/your-username/physical-ai-book',
+                href: 'https://github.com/SyedaMehakShah/physical_ai_humanoid_book',
               },
             ],
           },
