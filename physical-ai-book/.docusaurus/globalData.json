@@ -1,0 +1,149 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/physical-ai-book/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/physical-ai-book/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/physical-ai-book/docs/intro"
+            },
+            {
+              "id": "labs/lab-template",
+              "path": "/physical-ai-book/docs/labs/lab-template"
+            },
+            {
+              "id": "module-1-ros2/index",
+              "path": "/physical-ai-book/docs/module-1-ros2/"
+            },
+            {
+              "id": "module-1-ros2/nodes",
+              "path": "/physical-ai-book/docs/module-1-ros2/nodes"
+            },
+            {
+              "id": "module-1-ros2/rclpy",
+              "path": "/physical-ai-book/docs/module-1-ros2/rclpy"
+            },
+            {
+              "id": "module-1-ros2/services",
+              "path": "/physical-ai-book/docs/module-1-ros2/services"
+            },
+            {
+              "id": "module-1-ros2/topics",
+              "path": "/physical-ai-book/docs/module-1-ros2/topics"
+            },
+            {
+              "id": "module-1-ros2/urdf",
+              "path": "/physical-ai-book/docs/module-1-ros2/urdf"
+            },
+            {
+              "id": "module-2-digital-twin/gazebo",
+              "path": "/physical-ai-book/docs/module-2-digital-twin/gazebo"
+            },
+            {
+              "id": "module-2-digital-twin/index",
+              "path": "/physical-ai-book/docs/module-2-digital-twin/"
+            },
+            {
+              "id": "module-2-digital-twin/physics",
+              "path": "/physical-ai-book/docs/module-2-digital-twin/physics"
+            },
+            {
+              "id": "module-2-digital-twin/sensors",
+              "path": "/physical-ai-book/docs/module-2-digital-twin/sensors"
+            },
+            {
+              "id": "module-2-digital-twin/unity",
+              "path": "/physical-ai-book/docs/module-2-digital-twin/unity"
+            },
+            {
+              "id": "module-3-isaac/ai-integration",
+              "path": "/physical-ai-book/docs/module-3-isaac/ai-integration"
+            },
+            {
+              "id": "module-3-isaac/index",
+              "path": "/physical-ai-book/docs/module-3-isaac/"
+            },
+            {
+              "id": "module-3-isaac/isaac-sim",
+              "path": "/physical-ai-book/docs/module-3-isaac/isaac-sim"
+            },
+            {
+              "id": "module-4-real-robots/deployment",
+              "path": "/physical-ai-book/docs/module-4-real-robots/deployment"
+            },
+            {
+              "id": "module-4-real-robots/index",
+              "path": "/physical-ai-book/docs/module-4-real-robots/"
+            },
+            {
+              "id": "module-4-real-robots/robot-hardware",
+              "path": "/physical-ai-book/docs/module-4-real-robots/robot-hardware"
+            },
+            {
+              "id": "module-4-real-robots/safety",
+              "path": "/physical-ai-book/docs/module-4-real-robots/safety"
+            },
+            {
+              "id": "module-5-hri-safety/ethics",
+              "path": "/physical-ai-book/docs/module-5-hri-safety/ethics"
+            },
+            {
+              "id": "module-5-hri-safety/index",
+              "path": "/physical-ai-book/docs/module-5-hri-safety/"
+            },
+            {
+              "id": "module-5-hri-safety/interaction-design",
+              "path": "/physical-ai-book/docs/module-5-hri-safety/interaction-design"
+            },
+            {
+              "id": "module-5-hri-safety/safety-protocols",
+              "path": "/physical-ai-book/docs/module-5-hri-safety/safety-protocols"
+            },
+            {
+              "id": "resources/faq",
+              "path": "/physical-ai-book/docs/resources/faq"
+            },
+            {
+              "id": "resources/glossary",
+              "path": "/physical-ai-book/docs/resources/glossary"
+            },
+            {
+              "id": "resources/lab-template",
+              "path": "/physical-ai-book/docs/resources/lab-template"
+            },
+            {
+              "id": "resources/references",
+              "path": "/physical-ai-book/docs/resources/references"
+            },
+            {
+              "id": "resources/spec-driven-workflow",
+              "path": "/physical-ai-book/docs/resources/spec-driven-workflow"
+            },
+            {
+              "id": "resources/tools",
+              "path": "/physical-ai-book/docs/resources/tools"
+            },
+            {
+              "id": "resources/tools-overview",
+              "path": "/physical-ai-book/docs/resources/tools-overview"
+            },
+            {
+              "id": "resources/troubleshooting",
+              "path": "/physical-ai-book/docs/resources/troubleshooting"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

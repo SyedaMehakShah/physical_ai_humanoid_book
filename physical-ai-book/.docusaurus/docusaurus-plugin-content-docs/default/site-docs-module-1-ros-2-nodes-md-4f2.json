@@ -1,0 +1,18 @@
+{
+  "id": "module-1-ros2/nodes",
+  "title": "ROS 2 Nodes",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-1-ros2/nodes.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/nodes",
+  "permalink": "/physical-ai-book/docs/module-1-ros2/nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-1-ros2/nodes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  }
+}

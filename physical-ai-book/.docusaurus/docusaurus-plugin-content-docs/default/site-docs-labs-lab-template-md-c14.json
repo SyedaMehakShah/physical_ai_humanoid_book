@@ -1,0 +1,18 @@
+{
+  "id": "labs/lab-template",
+  "title": "Lab Template",
+  "description": "Overview",
+  "source": "@site/docs/labs/lab-template.md",
+  "sourceDirName": "labs",
+  "slug": "/labs/lab-template",
+  "permalink": "/physical-ai-book/docs/labs/lab-template",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/labs/lab-template.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  }
+}

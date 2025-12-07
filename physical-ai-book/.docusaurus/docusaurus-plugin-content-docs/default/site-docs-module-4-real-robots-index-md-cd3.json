@@ -1,0 +1,18 @@
+{
+  "id": "module-4-real-robots/index",
+  "title": "Module 4: From Simulation to Real Humanoids",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-4-real-robots/index.md",
+  "sourceDirName": "module-4-real-robots",
+  "slug": "/module-4-real-robots/",
+  "permalink": "/physical-ai-book/docs/module-4-real-robots/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-4-real-robots/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

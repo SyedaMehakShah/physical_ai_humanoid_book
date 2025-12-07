@@ -1,0 +1,18 @@
+{
+  "id": "resources/spec-driven-workflow",
+  "title": "Spec-Driven Development Workflow",
+  "description": "Introduction",
+  "source": "@site/docs/resources/spec-driven-workflow.md",
+  "sourceDirName": "resources",
+  "slug": "/resources/spec-driven-workflow",
+  "permalink": "/physical-ai-book/docs/resources/spec-driven-workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/resources/spec-driven-workflow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  }
+}

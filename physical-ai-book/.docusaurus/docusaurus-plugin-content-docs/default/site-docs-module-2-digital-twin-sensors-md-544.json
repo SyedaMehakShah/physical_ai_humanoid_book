@@ -1,0 +1,18 @@
+{
+  "id": "module-2-digital-twin/sensors",
+  "title": "Sensor Simulation for Humanoid Robots",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-2-digital-twin/sensors.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/sensors",
+  "permalink": "/physical-ai-book/docs/module-2-digital-twin/sensors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-2-digital-twin/sensors.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  }
+}

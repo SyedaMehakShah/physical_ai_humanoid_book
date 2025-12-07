@@ -1,0 +1,18 @@
+{
+  "id": "resources/faq",
+  "title": "Frequently Asked Questions: Physical AI & Humanoid Robotics",
+  "description": "Learning Objectives",
+  "source": "@site/docs/resources/faq.md",
+  "sourceDirName": "resources",
+  "slug": "/resources/faq",
+  "permalink": "/physical-ai-book/docs/resources/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/resources/faq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

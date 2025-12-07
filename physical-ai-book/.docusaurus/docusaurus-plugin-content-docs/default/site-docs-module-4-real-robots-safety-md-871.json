@@ -1,0 +1,18 @@
+{
+  "id": "module-4-real-robots/safety",
+  "title": "Safety Protocols for Real Humanoid Robots",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-4-real-robots/safety.md",
+  "sourceDirName": "module-4-real-robots",
+  "slug": "/module-4-real-robots/safety",
+  "permalink": "/physical-ai-book/docs/module-4-real-robots/safety",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-4-real-robots/safety.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  }
+}

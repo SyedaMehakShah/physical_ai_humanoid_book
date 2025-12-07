@@ -1,0 +1,18 @@
+{
+  "id": "module-3-isaac/isaac-sim",
+  "title": "Isaac Sim: Advanced Physics Simulation",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-3-isaac/isaac-sim.md",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/isaac-sim",
+  "permalink": "/physical-ai-book/docs/module-3-isaac/isaac-sim",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-3-isaac/isaac-sim.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  }
+}

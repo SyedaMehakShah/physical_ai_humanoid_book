@@ -1,0 +1,18 @@
+{
+  "id": "module-3-isaac/ai-integration",
+  "title": "AI Integration with Isaac",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-3-isaac/ai-integration.md",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/ai-integration",
+  "permalink": "/physical-ai-book/docs/module-3-isaac/ai-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-3-isaac/ai-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

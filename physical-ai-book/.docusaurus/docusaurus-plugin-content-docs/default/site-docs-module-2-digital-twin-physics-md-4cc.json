@@ -1,0 +1,18 @@
+{
+  "id": "module-2-digital-twin/physics",
+  "title": "Physics Simulation for Humanoid Robots",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-2-digital-twin/physics.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/physics",
+  "permalink": "/physical-ai-book/docs/module-2-digital-twin/physics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-2-digital-twin/physics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "/physical-ai-book/__docusaurus/debug-12f": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/config-4d3": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/content-a5b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    },
+    "__props": "__props---physical-ai-book-docusaurus-debug-content-85-e-5b0"
+  },
+  "/physical-ai-book/__docusaurus/debug/globalData-abe": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/metadata-587": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/registry-2ef": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/routes-1a5": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/docs-bb3": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docsaba-a6d"
+    }
+  },
+  "/physical-ai-book/docs-7b9": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---physical-ai-book-docse-93-ee2"
+  },
+  "/physical-ai-book/docs-754": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/physical-ai-book/docs/intro-050": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-intro-0-e-3-b7e"
+  },
+  "/physical-ai-book/docs/labs/lab-template-eef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-labs-lab-templatec-14-08d"
+  },
+  "/physical-ai-book/docs/module-1-ros2/-50e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-1-ros-2-4-dd-154"
+  },
+  "/physical-ai-book/docs/module-1-ros2/nodes-cfb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-1-ros-2-nodes-4-f-2-422"
+  },
+  "/physical-ai-book/docs/module-1-ros2/rclpy-45d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-1-ros-2-rclpyafd-9de"
+  },
+  "/physical-ai-book/docs/module-1-ros2/services-8e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-1-ros-2-services-462-463"
+  },
+  "/physical-ai-book/docs/module-1-ros2/topics-97b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-1-ros-2-topicsaf-1-45d"
+  },
+  "/physical-ai-book/docs/module-1-ros2/urdf-a5e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-1-ros-2-urdf-21-c-805"
+  },
+  "/physical-ai-book/docs/module-2-digital-twin/-790": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-2-digital-twin-811-256"
+  },
+  "/physical-ai-book/docs/module-2-digital-twin/gazebo-b65": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-2-digital-twin-gazebo-31-a-24b"
+  },
+  "/physical-ai-book/docs/module-2-digital-twin/physics-11c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-2-digital-twin-physics-4-cc-8ac"
+  },
+  "/physical-ai-book/docs/module-2-digital-twin/sensors-cfe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-2-digital-twin-sensors-544-e6d"
+  },
+  "/physical-ai-book/docs/module-2-digital-twin/unity-728": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-2-digital-twin-unitya-25-12c"
+  },
+  "/physical-ai-book/docs/module-3-isaac/-93f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-3-isaac-0-c-0-ecd"
+  },
+  "/physical-ai-book/docs/module-3-isaac/ai-integration-ad1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-3-isaac-ai-integration-153-923"
+  },
+  "/physical-ai-book/docs/module-3-isaac/isaac-sim-e07": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-3-isaac-isaac-sim-72-b-718"
+  },
+  "/physical-ai-book/docs/module-4-real-robots/-945": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-4-real-robots-cd-3-556"
+  },
+  "/physical-ai-book/docs/module-4-real-robots/deployment-18e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-4-real-robots-deploymentbae-87f"
+  },
+  "/physical-ai-book/docs/module-4-real-robots/robot-hardware-3e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-4-real-robots-robot-hardware-9-d-1-302"
+  },
+  "/physical-ai-book/docs/module-4-real-robots/safety-20f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-4-real-robots-safety-871-ab0"
+  },
+  "/physical-ai-book/docs/module-5-hri-safety/-05f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-5-hri-safety-d-0-a-82f"
+  },
+  "/physical-ai-book/docs/module-5-hri-safety/ethics-ca7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-5-hri-safety-ethics-0-a-4-12a"
+  },
+  "/physical-ai-book/docs/module-5-hri-safety/interaction-design-3be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-5-hri-safety-interaction-design-553-138"
+  },
+  "/physical-ai-book/docs/module-5-hri-safety/safety-protocols-0b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-module-5-hri-safety-safety-protocols-895-ad9"
+  },
+  "/physical-ai-book/docs/resources/faq-daf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-resources-faqb-66-e60"
+  },
+  "/physical-ai-book/docs/resources/glossary-0af": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-resources-glossary-6-e-9-a6f"
+  },
+  "/physical-ai-book/docs/resources/lab-template-c6b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-resources-lab-template-138-de8"
+  },
+  "/physical-ai-book/docs/resources/references-6c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-resources-referencesb-6-e-ad1"
+  },
+  "/physical-ai-book/docs/resources/spec-driven-workflow-7df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-resources-spec-driven-workflow-1-cc-315"
+  },
+  "/physical-ai-book/docs/resources/tools-235": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-resources-toolsb-59-d6a"
+  },
+  "/physical-ai-book/docs/resources/tools-overview-228": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-resources-tools-overview-2-c-8-ecd"
+  },
+  "/physical-ai-book/docs/resources/troubleshooting-64a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-resources-troubleshootinga-30-073"
+  },
+  "/physical-ai-book/-003": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-a-74-4aa"
+    },
+    "config": "config---physical-ai-book-5-e-9-c21"
+  }
+}

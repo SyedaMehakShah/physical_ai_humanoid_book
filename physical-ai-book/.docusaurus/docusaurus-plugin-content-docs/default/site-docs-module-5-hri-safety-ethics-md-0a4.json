@@ -1,0 +1,18 @@
+{
+  "id": "module-5-hri-safety/ethics",
+  "title": "Ethics in Human-Robot Interaction",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-5-hri-safety/ethics.md",
+  "sourceDirName": "module-5-hri-safety",
+  "slug": "/module-5-hri-safety/ethics",
+  "permalink": "/physical-ai-book/docs/module-5-hri-safety/ethics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/edit/main/docs/module-5-hri-safety/ethics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  }
+}
