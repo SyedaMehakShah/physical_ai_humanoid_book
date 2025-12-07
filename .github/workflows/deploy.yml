@@ -19,9 +19,10 @@ jobs:
     cache-dependency-path: physical-ai-book/package-lock.json
 - name: Install dependencies
   working-directory: physical-ai-book
-  run: npm ci- name: Build website
- working-directory: physical-ai-book
- run: npm run build
+  run: npm ci
+- name: Build website
+  working-directory: physical-ai-book
+  run: npm run build
 - name: Upload Build Artifact
  uses: actions/upload-pages-artifact@v3
  with:
